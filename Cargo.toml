@@ -1,0 +1,9 @@
+[package]
+name = "sync-stream"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+asky = "0.1.1"
+rodio = "0.20.1"
+sntpc = "0.4.0"
