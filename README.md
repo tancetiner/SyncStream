@@ -44,4 +44,3 @@ The time constraints and scope of the project prevented us from implementing eve
 -   Streaming Support: Enable the leader to stream music files directly to members instead of requiring local files. This feature will:
     -   Support on-the-fly music streaming over the network.
     -   Reduce setup complexity for members by eliminating the need to have local media files.
-
